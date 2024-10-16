@@ -1,0 +1,29 @@
+{
+    "Version": 2,
+
+    "AppsList-Android": [   
+       	{
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://a4.mzstatic.com/us/r30/Purple2/v4/6b/48/79/6b487977-d8c1-214a-4885-a57c9f050e98/icon175x175.jpeg",
+            "Id": "com.bla.bla"
+        },
+        	{
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://a4.mzstatic.com/us/r30/Purple2/v4/6b/48/79/6b487977-d8c1-214a-4885-a57c9f050e98/icon175x175.jpeg",
+            "Id": "com.bla.bla"
+        },
+        	{
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://a4.mzstatic.com/us/r30/Purple2/v4/6b/48/79/6b487977-d8c1-214a-4885-a57c9f050e98/icon175x175.jpeg",
+            "Id": "com.bla.bla"
+        },
+    ],
+
+    "AppsList-iOS": [
+        {
+            "AppTitle": "Sabertooth Tiger Simulator",
+            "IconUrl": "http://a4.mzstatic.com/us/r30/Purple2/v4/6b/48/79/6b487977-d8c1-214a-4885-a57c9f050e98/icon175x175.jpeg",
+            "Id": "980976040"
+        }
+    ]
+}
